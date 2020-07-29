@@ -100,7 +100,7 @@ public class BaiduPicDownloadTest {
 
     @Test
     public void test() throws Exception {
-        downloadBiaduPic("超级跑车", 1);
+        downloadBiaduPic("大熊猫", 1);
     }
 
 
